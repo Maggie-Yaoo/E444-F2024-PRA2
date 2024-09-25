@@ -19,3 +19,10 @@ With invalid email
 
 With non-uoft email
 ![](img/1.4.4.png)
+
+## Activity 2
+`docker build -t ece444-pra2:latest .`
+
+`docker run -d -p 5001:5001 ece444-pra2:latest`
+
+![](img/2.png)
